@@ -13,7 +13,6 @@ and open the template in the editor.
         <?php
         // put your code here
 <<<<<<< HEAD
-        echo 'hello there, huh??';
         echo 'Who the hell are you??';
 =======
         echo 'hello there, how are u??';
