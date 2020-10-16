@@ -12,7 +12,11 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+<<<<<<< HEAD
         echo 'hello there, huh??';
+=======
+        echo 'hello there, how are u??';
+>>>>>>> 8f36a54d09077986db73d8e33ccd2075c0e76843
         
         ?>
         <form name="Form" action="#">
